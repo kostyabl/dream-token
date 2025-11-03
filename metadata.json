@@ -2,15 +2,5 @@
   "name": "Dream Token",
   "symbol": "DREAM",
   "description": "Token for Dream Chain project - rewarding creative ideas",
-  "image": "https://raw.githubusercontent.com/kostyabl/dream-token/refs/heads/main/dream_token_final_cutted.png",
-  "attributes": [
-    {
-      "trait_type": "Type",
-      "value": "Utility Token"
-    }
-  ],
-  "properties": {
-    "category": "token"
-  }
+  "image": "https://raw.githubusercontent.com/kostyabl/dream-token/refs/heads/main/dream_token_final_cutted.png"
 }
-
